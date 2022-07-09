@@ -20,7 +20,17 @@
   <img align="center" alt="Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/>
   <img align="center" alt="Npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
 </div>
-
+<hr>
+<p>Meus contatos:</p>
 <div>
+  <a href = "mailto:wender.sobrinho@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/user/wenderdesigner" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/wenderalves/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 </div>
