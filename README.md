@@ -1,11 +1,6 @@
 ## Olá pessoas, eu sou o Wender conhecido por alguns como o sobrinho (the Nephew).
 <p>Amante da tecnologia frontend sem deixar de lado o conhecimento fullstack.</p>
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wenderalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderalves&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+
 <div  align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
